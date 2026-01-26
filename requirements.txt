@@ -1,0 +1,8 @@
+# Core Dependencies
+pyTelegramBotAPI
+schedule
+gspread
+tweepy
+google-generativeai
+openai
+requests
